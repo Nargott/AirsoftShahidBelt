@@ -3,10 +3,6 @@
 #include <TimerOne.h>
 
 #include "ShiftIn.h"
- //MOSI: pin 11 don't use for anything
- //MISO: pin 12 to Q7 of last register
- //SCK:  pin 13 to CP
- // PL:  pin 2
 
 #define DISP_CLK 6
 #define DISP_DIO 5
